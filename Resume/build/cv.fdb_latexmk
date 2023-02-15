@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1676470987 "d:/Repositorios/SebaGPDev/Resume/cv.tex" "build/cv.pdf" "cv" 1676470988 2
+["pdflatex"] 1676471616 "d:/Repositorios/SebaGPDev/Resume/cv.tex" "build/cv.pdf" "cv" 1676471617 2
   "C:/Users/Sebastian/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1676468912 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Sebastian/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1676470300 14064 93dd1c1d78d8f785003af583723abc49 ""
   "C:/Users/Sebastian/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1676468653 23176235 66165b2f499473c6394e0313f9580c8e ""
@@ -79,10 +79,10 @@
   "C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "GitHub_Logo.png" 1676470274 13001 00c96279b9cac1546fb56f684855c9d9 ""
   "LI-Logo.png" 1676470274 25367 4bbc9553624af8310023f5b9d05b21a2 ""
-  "build/cv.aux" 1676470988 1786 aa7b7ed3957821d7172c00fee1524c5f "pdflatex"
-  "build/cv.out" 1676470988 1316 fde3ae012a3ef5f5c86fb8d638bf15de "pdflatex"
-  "cv.tex" 1676470484 8591 7581b79c12c0ac8b2bbd054ed78c77a8 ""
-  "d:/Repositorios/SebaGPDev/Resume/cv.tex" 1676470484 8591 7581b79c12c0ac8b2bbd054ed78c77a8 ""
+  "build/cv.aux" 1676471617 1786 aa7b7ed3957821d7172c00fee1524c5f "pdflatex"
+  "build/cv.out" 1676471617 1316 fde3ae012a3ef5f5c86fb8d638bf15de "pdflatex"
+  "cv.tex" 1676471613 8589 b58046e60f65bc1e3be101ea267cc7f2 ""
+  "d:/Repositorios/SebaGPDev/Resume/cv.tex" 1676471613 8589 b58046e60f65bc1e3be101ea267cc7f2 ""
   "my_cv.cls" 1676470457 2616 dc7758fcff6d00f9f04e651e3d1e3869 ""
   "scholar_logo_64dp.png" 1676470274 6497 9d27b90d3ec60b2d4e6174926e98dedc ""
   (generated)
