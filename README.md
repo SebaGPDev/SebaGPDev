@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebagpdev" alt="sebagpdev" /></a> </p>
+
 <div align="center">
-
 <h3>My resume</h3>
-
   <p> 
-    <a href="https://github.com/SebaGPDev/SebaGPDev/blob/main/Resume/build/cv.pdf" target="blank">
+    <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/cv.pdf" target="blank">
     <img src="https://play-lh.googleusercontent.com/lSAxaMzF9fRKmuq9GwjR3sbVoIfwdcGm6Ng1_-w_rWlu4_lOwRGpu8M9lS94UVvO0dI=w240-h480-rw" height = "90px"/>
   </p>
-  </div>
+</div>
 
 - ⚡ Interests **Computer Science, Software Engineering, Software Architecture, Cloud Computing**
 
