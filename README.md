@@ -1,9 +1,8 @@
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebagpdev" alt="sebagpdev" /></a> </p>
 <h1 align="center">Hi 👋, I'm Sebastian Prieto</h1>
 <h3 align="center">I am a full stack developer in Argentina, I am proactive, flexible, I like to get results, I work well in teams, soft skills, agile methodologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebagpdev" alt="sebagpdev" /></a> </p>
 
 <div align="center">
 <h3>My resume</h3>
