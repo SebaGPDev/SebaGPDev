@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.15)  19 FEB 2023 19:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.15)  20 FEB 2023 10:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -320,7 +320,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 163.
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/it' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 211.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 212.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -334,20 +334,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 233B6C091C1A2BE792BE81F8966AD5C7;365.
+(rerunfilecheck)             Checksum: F85FA75D1EDCEB523273707A433B53D5;438.
  ) 
 Here is how much of TeX's memory you used:
- 11960 strings out of 476374
- 191789 string characters out of 5786966
- 1870340 words of memory out of 5000000
- 32191 multiletter control sequences out of 15000+600000
+ 11962 strings out of 476374
+ 191809 string characters out of 5786966
+ 1878340 words of memory out of 5000000
+ 32192 multiletter control sequences out of 15000+600000
  518870 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,76p,408b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}<C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on d:\Repositorios\SebaGPDev\Resume\build\main.pdf (1 page, 137336 bytes).
+Output written on d:\Repositorios\SebaGPDev\Resume\build\main.pdf (1 page, 140699 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

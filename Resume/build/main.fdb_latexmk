@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1676846381 "d:/Repositorios/SebaGPDev/Resume/main.tex" "build/main.pdf" "main" 1676846382 0
+["pdflatex"] 1676899250 "d:/Repositorios/SebaGPDev/Resume/main.tex" "build/main.pdf" "main" 1676899251 0
   "C:/Users/Sebastian/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1676657802 81273 13337b4d62cad88d859596ff40e690da ""
   "C:/Users/Sebastian/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1676468653 23176235 66165b2f499473c6394e0313f9580c8e ""
   "C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463869852 1687 f004baecce60175c6453d0e3f808cf20 ""
@@ -98,10 +98,10 @@
   "C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1654690828 7147 be6981d9f5d866a5634048c4a11814a9 ""
   "C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1654690828 7392 6cb60c76983625ab7344d128dbcdd881 ""
   "C:/Users/Sebastian/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/main.aux" 1676846382 1060 1bb8459ee69c66ec6a56b3c0525eb103 "pdflatex"
-  "build/main.out" 1676846382 365 233b6c091c1a2be792be81f8966ad5c7 "pdflatex"
-  "d:/Repositorios/SebaGPDev/Resume/main.tex" 1676846381 8885 c1eb7c25515c97c0d531f7cf4ad38596 ""
-  "main.tex" 1676846381 8885 c1eb7c25515c97c0d531f7cf4ad38596 ""
+  "build/main.aux" 1676899251 1163 454be21920185edb4ffc339d42a9543f "pdflatex"
+  "build/main.out" 1676899251 438 f85fa75d1edceb523273707a433b53d5 "pdflatex"
+  "d:/Repositorios/SebaGPDev/Resume/main.tex" 1676899249 10288 55c3535bd1357ce2c80ee51753fb222f ""
+  "main.tex" 1676899249 10288 55c3535bd1357ce2c80ee51753fb222f ""
   (generated)
   "build/main.aux"
   "build/main.log"

@@ -8,7 +8,7 @@
 <h3>My resume</h3>
   <p> 
     <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/cv.pdf" target="blank">
-    <img src="https://play-lh.googleusercontent.com/lSAxaMzF9fRKmuq9GwjR3sbVoIfwdcGm6Ng1_-w_rWlu4_lOwRGpu8M9lS94UVvO0dI=w240-h480-rw" height = "90px"/>
+    <img src="https://gifimage.net/wp-content/uploads/2018/04/resume-gif-5.gif" height = "90px"/>
   </p>
 </div>
 
