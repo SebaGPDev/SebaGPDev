@@ -2,17 +2,16 @@
 <h1 align="center">Hi 👋, I'm Sebastian Prieto</h1>
 <h2 align="center">I am a full stack developer in Argentina, I am proactive, flexible, I like to get results, I work well in teams, soft skills, agile methodologies</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
-
 <div align="center">
 <h3>My resume:</h3>
+<img src="https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="50px">
   <p> 
     <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/main.pdf" target="blank">
     <img src="https://gifimage.net/wp-content/uploads/2018/04/resume-gif-5.gif" height = "200px"/>
   </p>
 </div>
 
-- ⚡ Interests **Computer Science, Software Engineering, Software Architecture, Cloud Computing**
+- ⚡ Interests <ul>**<li>Computer Science</li><li>Software Engineering</li><li>Software Architecture</li><li>Cloud Computing</li>**</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebagpdev&show_icons=true&locale=en" alt="sebagpdev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebagpdev&" alt="sebagpdev" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
