@@ -1,6 +1,6 @@
-<h4>😄About me:</h4>
+<h2>😄About me:</h2>
 <h1 align="center">Hi 👋, I'm Sebastian Prieto</h1>
-<h3 align="center">I am a full stack developer in Argentina, I am proactive, flexible, I like to get results, I work well in teams, soft skills, agile methodologies</h3>
+<h2 align="center">I am a full stack developer in Argentina, I am proactive, flexible, I like to get results, I work well in teams, soft skills, agile methodologies</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
 
