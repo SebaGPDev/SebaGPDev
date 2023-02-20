@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
 
 <div align="center">
-<h3>My resume</h3>
+<h3>My resume:</h3>
   <p> 
     <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/main.pdf" target="blank">
     <img src="https://gifimage.net/wp-content/uploads/2018/04/resume-gif-5.gif" height = "200px"/>
