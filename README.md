@@ -4,7 +4,6 @@
 
 <div align="center">
 <h3>My resume:</h3>
-<img src="https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20go%20fast,%20is%20to%20go%20well&author=Robert%20C.%20Martin&theme=algolia">
 <img src="https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="50px">
   <p> 
     <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/main.pdf" target="blank">
@@ -34,3 +33,7 @@
 #### 👀 viewers
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20go%20fast,%20is%20to%20go%20well&author=Robert%20C.%20Martin&theme=algolia">
+</div>
