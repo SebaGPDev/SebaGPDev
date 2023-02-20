@@ -1,4 +1,5 @@
-<img aling="center" width="100%" src="https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20go%20fast,%20is%20to%20go%20well&author=Robert%20C.%20Martin&theme=algolia">
+<img src="https://quotes-github-readme.vercel.app/api?quote=The%20only%20way%20to%20go%20fast,%20is%20to%20go%20well&author=Robert%20C.%20Martin&theme=algolia">
+
 
 <h2>😄About me:</h2>
 <h1 align="center">Hi 👋, I'm Sebastian Prieto</h1>
