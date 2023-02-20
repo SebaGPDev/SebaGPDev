@@ -23,16 +23,18 @@
 <h3 align="left">Languages and Tools:</h3>
 
 #### 💯 GitHub Stats:
+
 <div align="center">
   <a href="https://github.com/sebagpdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebagpdev&show_icons=true&locale=en&layout=compact" alt="sebagpdev"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sebagpdev&show_icons=true&locale=en" alt="sebagpdev"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sebagpdev&show_icons=true&locale=en" alt="sebagpdev"/>
+  <p><img height="150em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebagpdev&" alt="sebagpdev" /></p>
 </div>
 
-<p><img height="150em" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sebagpdev&" alt="sebagpdev" /></p>
-
 #### 👀 viewers
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebagpdev&label=Profile%20views&color=0e75b6&style=flat" alt="sebagpdev" /> </p>
 
 #### 📢 Random Quote:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
