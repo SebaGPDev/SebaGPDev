@@ -1,4 +1,4 @@
-<h5>😄About me:</h5>
+<h4>😄About me:</h4>
 <h1 align="center">Hi 👋, I'm Sebastian Prieto</h1>
 <h3 align="center">I am a full stack developer in Argentina, I am proactive, flexible, I like to get results, I work well in teams, soft skills, agile methodologies</h3>
 
