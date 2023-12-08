@@ -8,7 +8,7 @@
 <img src="https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="50px">
   <p>
     <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/main.pdf" target="blank">
-    <img src="./img/resume.gif" height = "200px"/>
+    <img src="./img/cv.gif" height = "200px"/>
   </p>
 </div>
 
