@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <a href="./Resume-Es//build//Sebastian_Prieto_CV.pdf">CV en espanol</a>
+  <a href="./Resume-Es//build//Sebastian_Prieto_CV.pdf" target="blank">CV en espanol</a>
 </div>
 
 # ⚡ Interests
