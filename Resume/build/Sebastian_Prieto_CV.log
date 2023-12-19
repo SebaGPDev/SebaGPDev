@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.12.8)  19 DEC 2023 09:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.12.8)  19 DEC 2023 09:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -373,7 +373,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,11n,76p,456b,475s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/bitstrea/charter/bchri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on build/Sebastian_Prieto_CV.pdf (1 page, 117014 bytes).
+Output written on build/Sebastian_Prieto_CV.pdf (1 page, 117028 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
