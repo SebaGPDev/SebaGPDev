@@ -7,9 +7,13 @@
 <h3>My resume:</h3>
 <img src="https://content.invisioncic.com/p289038/monthly_2020_05/arrow-down.gif.8d9aec7b8f92f2a50a1a64fce1733f3a.gif" height="50px">
   <p>
-    <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/Sebastian_Prieto_CV.pdf" target="blank">
+    <a href="https://github.com/SebaGPDev/SebaGPDev/raw/main/Resume/build/Sebastian_Prieto_CV.pdf" target="blank"></a>
     <img src="./img/cv.gif" height = "200px"/>
   </p>
+</div>
+
+<div>
+  <a href="./Resume-Es//build//Sebastian_Prieto_CV.pdf">CV en espanol</a>
 </div>
 
 # ⚡ Interests
