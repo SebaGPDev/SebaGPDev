@@ -1,9 +1,9 @@
-PWD /home/sebastian/Escritorio/SebaGPDev/Resume
+PWD /home/sebastian/Escritorio/SebaGPDev/Resume-Es
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/sebastian/Escritorio/SebaGPDev/Resume/Sebastian_Prieto_CV.tex
+INPUT /home/sebastian/Escritorio/SebaGPDev/Resume-Es/Sebastian_Prieto_CV.tex
 OUTPUT build/Sebastian_Prieto_CV.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
