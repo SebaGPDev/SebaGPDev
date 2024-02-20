@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1708445688 "/home/sebastian/Escritorio/SebaGPDev/Resume-Es/Sebastian_Prieto_CV.tex" "build/Sebastian_Prieto_CV.pdf" "Sebastian_Prieto_CV" 1708445688 0
+["pdflatex"] 1708445919 "/home/sebastian/Escritorio/SebaGPDev/Resume-Es/Sebastian_Prieto_CV.tex" "build/Sebastian_Prieto_CV.pdf" "Sebastian_Prieto_CV" 1708445919 0
   "/etc/texmf/web2c/texmf.cnf" 1702035471 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/sebastian/Escritorio/SebaGPDev/Resume-Es/Sebastian_Prieto_CV.tex" 1708445688 10923 9c3d50144db6ad1b2994ac3a31799bf7 ""
+  "/home/sebastian/Escritorio/SebaGPDev/Resume-Es/Sebastian_Prieto_CV.tex" 1708445919 10932 de346260f0e523eaafb775d834b55693 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc" 1651520503 2608 3139db8e1f9371a4f87c0715d17fa217 ""
@@ -134,9 +134,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1681034085 39561 34c98e380bf7c7201ee6a7909aff625a ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1702037675 4189835 9490a01a91114ea1991532b67cbdf360 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1702036434 6475506 4df6e6ce0e002ef4fd5c9f6a48eb7dbc ""
-  "Sebastian_Prieto_CV.tex" 1708445688 10923 9c3d50144db6ad1b2994ac3a31799bf7 ""
-  "build/Sebastian_Prieto_CV.aux" 1708445688 1063 b1a6d1a69553c61278764f627de670c6 "pdflatex"
-  "build/Sebastian_Prieto_CV.out" 1708445688 375 e29e517b6305f675921a8e0ea1ddd1e4 "pdflatex"
+  "Sebastian_Prieto_CV.tex" 1708445919 10932 de346260f0e523eaafb775d834b55693 ""
+  "build/Sebastian_Prieto_CV.aux" 1708445919 1063 b1a6d1a69553c61278764f627de670c6 "pdflatex"
+  "build/Sebastian_Prieto_CV.out" 1708445919 375 e29e517b6305f675921a8e0ea1ddd1e4 "pdflatex"
   (generated)
   "build/Sebastian_Prieto_CV.aux"
   "build/Sebastian_Prieto_CV.log"
